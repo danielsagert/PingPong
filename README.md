@@ -11,7 +11,7 @@ mvn clean install && jjs build.js && jjs run.js
 ### Request
 Request when deployed into a TomEE+ application server.
 ```
-GET http://localhost:8080/PingPong/api/ping
+GET http://localhost:8080/pingpong/api/ping
 ```
 
 ### Response
